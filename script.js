@@ -1,1 +1,0 @@
-var  mainimg = document.getElementById("main img"); 
